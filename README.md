@@ -1,2 +1,2 @@
-- Leaflet Map https://github.com/johnnyra27/Johnnys-Story-Map
+- Leaflet Map https://johnnyra27.github.io/Johnnys-Story-Map/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1iBMfxtBhSwy5PsY6dBSoBxv2Vd9iahRH01PHjBO5qzk/edit#gid=1033046795
