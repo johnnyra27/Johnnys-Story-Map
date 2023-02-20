@@ -10,7 +10,7 @@ body {
   height: 200px;
   width: 100vw;
   position: absolute;
-  border-bottom: 3px dashed red;
+  border-bottom: 3px dashed black;
   top: 0;
   left: 0;
 }
@@ -116,7 +116,7 @@ a.source:visited {
 .description {
   margin: 20px;
   text-align: left;
-  font-size: 11pt;
+  font-size: 12pt;
   padding: 20px;
 }
 
@@ -178,4 +178,6 @@ h2 {
   margin: 0;
   font-size: 1.1em;
   font-weight: normal;
+  text-decoration: underline darkseagreen;
+  color: darkseagreen;
 }
