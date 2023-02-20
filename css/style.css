@@ -65,6 +65,7 @@ body {
   margin: 50px 0 0 0;
   padding: 20px 0 0 0;
   text-align: center;
+  background-color: darkgray;
 }
 
 .chapter-container img {
@@ -100,7 +101,7 @@ body {
 .chapter-header {
   display: block;
   text-align: center;
-  font-size: 1.2em;
+  font-size: 1.3em;
   padding: 0 5px;
   text-decoration: underline darkseagreen;
   color: darkseagreen;
