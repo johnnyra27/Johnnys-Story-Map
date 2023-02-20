@@ -1,8 +1,8 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Times New Roman", sans-serif;
-  border: 1px dashed green;
+  font-family: "Times New Roman", darkseagreen sans-serif;
+  border: 1px dashed black;
   overflow: hidden;
 }
 
@@ -48,7 +48,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: black;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -168,6 +168,8 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
+  text-decoration: underline;
+  
 }
 
 h2 {
