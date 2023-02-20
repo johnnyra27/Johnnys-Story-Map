@@ -1,7 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: "Times New Roman", sans-serif;
   overflow: hidden;
 }
 
@@ -9,7 +9,7 @@ body {
   height: 200px;
   width: 100vw;
   position: absolute;
-  border-bottom: 3px solid orange;
+  border-bottom: 3px dashed red;
   top: 0;
   left: 0;
 }
