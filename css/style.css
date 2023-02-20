@@ -102,6 +102,8 @@ body {
   text-align: center;
   font-size: 1.2em;
   padding: 0 5px;
+  text-decoration: underline darkseagreen;
+  color: darkseagreen;
 }
 
 .source {
