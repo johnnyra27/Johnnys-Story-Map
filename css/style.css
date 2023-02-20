@@ -55,6 +55,7 @@ body {
   padding: 0;
   visibility: hidden;
   font-weight: bold;
+  text-decoration: underline;
   text-align: center;
 }
 
